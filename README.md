@@ -11,4 +11,4 @@
 
 Initialising User Database in User.js.
 
-Performing `CRUD` (CREATE, READ, UPDATE, DELETE) operations in index.js
+Performing `CRUD` (CREATE, READ, UPDATE, DELETE) operations in index.js.
